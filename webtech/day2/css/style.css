@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(255, 247, 241);
+}
+*{
+    text-align: center;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    color: rgb(255, 115, 0);
+}
+h2{
+    color: rgb(255, 173, 105);
+}
+h3{
+    color: rgb(255, 204, 163);
+}
+#College{
+    color: rgb(255, 148, 61);
+}
+.wrap{
+    color: orange;
+}
+#supcollege{
+    background-color: whitesmoke;
+}
+#one{
+    font-size: 10px;
+}
+#o2{
+    font-weight: 400;
+}
